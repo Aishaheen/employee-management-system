@@ -1,5 +1,5 @@
 -- Database setup
-USE info;
+USE emp;
 
 -- Create and populate LOCATION table
 CREATE TABLE LOCATION (
